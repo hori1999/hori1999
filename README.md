@@ -4,7 +4,7 @@
 
 ## Languages
 
-- 🌱 I’m currently learning Python , C++ , Java and Javascripts.
+- 🌱 I’m currently learning Python , C++ , Java and Javascript.
 
 
 
